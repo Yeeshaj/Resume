@@ -13,7 +13,7 @@ Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech 
 ### Personal Projects
 ```markdown
 
-1.Loca Bus- An online bus booking app which uses firebase as database 
+1. Loca Bus- An online bus booking app which uses firebase as database 
 2. Ehealthcare Website- Using HTML,CSS,Javascript, Java and MySql database.  
 3. Tic Tac Toe Game
 4. Calculator
