@@ -1,6 +1,7 @@
 ## Welcome to my Page
 
-Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech in Computer Science Engineering from Dr. A.P.J. Kalam Technical UNiversity.
+Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech in Computer Science Engineering from Dr. A.P.J. Kalam Technical University(2014-2018).
+
 ### Work Experience
 
 # System Engineer (2018-Present)
@@ -30,3 +31,7 @@ Syntax highlighted code block
 • Secured A.I.R 776 in Code Vita Exam
 • Cleared TCS Internal capability Assessment
 ```
+
+
+
+
