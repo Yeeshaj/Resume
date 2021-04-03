@@ -12,21 +12,12 @@ Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech 
 ```
 ### Personal Projects
 ```markdown
-Syntax highlighted code block
 
-# Loca Bus
- An online bus booking app which uses firebase as database 
- [https://github.com/Yeeshaj/LocaBus]{#GitHub}
- 
-# Ehealthcare Website
- Using HTML,CSS,Javascript, Java and MySql database. 
- <a href="https://github.com/Yeeshaj/LocaBus"> View on GitHub </a>
-   
-# Tic Tac Toe Game
- <a href=" https://github.com/Yeeshaj/TicTacToe"> View on GitHub </a>
-  
-# Calculator
- <a href=" </a>https://github.com/Yeeshaj/Calculator"> View on GitHub </a>
+1.Loca Bus- An online bus booking app which uses firebase as database 
+2. Ehealthcare Website- Using HTML,CSS,Javascript, Java and MySql database.  
+3. Tic Tac Toe Game
+4. Calculator
+
   
 ```
 
@@ -36,7 +27,7 @@ Syntax highlighted code block
 • Secured A.I.R 776 in Code Vita Exam
 • Cleared TCS Internal capability Assessment
 ```
-
+ <a href="https://github.com/Yeeshaj"> Github </a>
 <a href="https://leetcode.com/yeeshaj/">Leetcode </a>
 <a href="https://www.linkedin.com/in/yeeshaj//">LinkedIn </a>
 
