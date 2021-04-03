@@ -2,9 +2,9 @@
 
 Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech in Computer Science Engineering from Dr. A.P.J. Kalam Technical University(2014-2018).
 
-### Work Experience
+# Work Experience
 
-# System Engineer (2018-Present)
+### System Engineer (2018-Present)
 ```
 -Understand the business requirement and develop code for the same and deploying it to Production.
 -Have a hands on experience of Java, HTML, CSS, AJAX ,Javascript and MySql Database
