@@ -14,13 +14,14 @@ Hi I am Yeeshaj curently working as a Software Engineer in TCS.
 Syntax highlighted code block
 
 # Loca Bus
-An online bus booking app which uses firebase as database
+ An online bus booking app which uses firebase as database
 
 # Ehealthcare Website
  Using HTML,CSS,Javascript, Java and MySql database.
  
-#Online Price comparator
+# Online Price comparator
   Scrape Prices of a product from different websites using Uipath
+  
 ```
 
 # ACHIEVEMENTS
