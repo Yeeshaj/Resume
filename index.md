@@ -32,6 +32,8 @@ Syntax highlighted code block
 • Cleared TCS Internal capability Assessment
 ```
 
+<a href="https://leetcode.com/yeeshaj/">Leetcode </a>
+<a href="https://www.linkedin.com/in/yeeshaj//">LinkedIn </a>
 
 
 
