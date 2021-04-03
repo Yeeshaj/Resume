@@ -16,7 +16,7 @@ Syntax highlighted code block
 
 # Loca Bus
  An online bus booking app which uses firebase as database 
- <a href="https://github.com/Yeeshaj/LocaBus"> View on GitHub </a>
+ [https://github.com/Yeeshaj/LocaBus]{#GitHub}
  
 # Ehealthcare Website
  Using HTML,CSS,Javascript, Java and MySql database. 
@@ -26,7 +26,7 @@ Syntax highlighted code block
  <a href=" https://github.com/Yeeshaj/TicTacToe"> View on GitHub </a>
   
 # Calculator
- <a href=" </a>https://github.com/Yeeshaj/Calculator"> View on GitHub
+ <a href=" </a>https://github.com/Yeeshaj/Calculator"> View on GitHub </a>
   
 ```
 
