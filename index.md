@@ -15,13 +15,16 @@ Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech 
 Syntax highlighted code block
 
 # Loca Bus
- An online bus booking app which uses firebase as database
+ An online bus booking app which uses firebase as database <a href="https://github.com/Yeeshaj/LocaBus"> View on GitHub </a>
 
 # Ehealthcare Website
- Using HTML,CSS,Javascript, Java and MySql database.
- 
-# Online Price comparator
-  Scrape Prices of a product from different websites using Uipath
+ Using HTML,CSS,Javascript, Java and MySql database. <a href="https://github.com/Yeeshaj/LocaBus"> View on GitHub </a>
+   
+# Tic Tac Toe Game
+ <a href=" https://github.com/Yeeshaj/TicTacToe"> View on GitHub </a>
+  
+# Calculator
+ <a href=" </a>https://github.com/Yeeshaj/Calculator"> View on GitHub
   
 ```
 
