@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to my Page
 
+Hi I am Yeeshaj curently working as a Software Engineer in TCS.
 You can use the [editor on GitHub](https://github.com/Yeeshaj/yeeshaj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work Experience
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# System Engineer (2018-Present)
+```
+-Understand the business requirement and develop code for the same and deploying it to Production.
+-Have a hands on experience of Java, HTML, CSS, AJAX ,Javascript and MySql Database
+-Working knowledge of Operating System, Computer Networks, Data Structures and Algorithm
+```
+### Personal Projects
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Loca Bus
+An online bus booking app which uses firebase as database
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Ehealthcare Website
+ Using HTML,CSS,Javascript, Java and MySql database.
+ 
+#Online Price comparator
+  Scrape Prices of a product from different websites using Uipath
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yeeshaj/yeeshaj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ACHIEVEMENTS
+```
+• NPAT (National Programming Aptitude Test) Score 81/100
+• Secured A.I.R 776 in Code Vita Exam
+• Cleared TCS Internal capability Assessment
+```
