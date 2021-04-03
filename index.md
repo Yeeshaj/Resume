@@ -1,6 +1,6 @@
 ## Welcome to my Page
 
-Hi I am Yeeshaj curently working as a Software Engineer in TCS.
+Hi I am Yeeshaj curently working as a Software Engineer in TCS. I did my B.Tech in Computer Science Engineering from Dr. A.P.J. Kalam Technical UNiversity.
 ### Work Experience
 
 # System Engineer (2018-Present)
