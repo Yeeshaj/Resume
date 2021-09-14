@@ -1,4 +1,4 @@
-
+Resume 
 To adapt myself as a creative member in a competitive team and efficiently utilize my communication and technical skills to gain knowledge and momentum in the software arena and prove myself as valuable member of the organization.
 
 # Education
