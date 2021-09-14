@@ -11,17 +11,17 @@ To adapt myself as a creative member in a competitive team and efficiently utili
 
 ### System Engineer (2018-2021)
 ```
--Understand the business requirement and develop code for the same and deploying it to Production.
--Have a hands on experience of Java, HTML, CSS, AJAX ,Javascript and MySql Database
--Working knowledge of Operating System, Computer Networks, Data Structures and Algorithm
+• Understand the business requirement and develop code for the same and deploying it to Production.
+• Have a hands on experience of Java, HTML, CSS, AJAX ,Javascript and MySql Database
+• Working knowledge of Operating System, Computer Networks, Data Structures and Algorithm
 ```
 ### Personal Projects
 ```markdown
 
-1. Loca Bus- An online bus booking app which uses firebase as database 
-2. Ehealthcare Website- Using HTML,CSS,Javascript, Java and MySql database.  
-3. Tic Tac Toe Game
-4. Calculator
+• Loca Bus- An online bus booking app which uses firebase as database 
+• Ehealthcare Website- Using HTML,CSS,Javascript, Java and MySql database.  
+• Tic Tac Toe Game
+• Calculator
 
   
 ```
