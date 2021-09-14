@@ -13,7 +13,8 @@ To adapt myself as a creative member in a competitive team and efficiently utili
 ```
 • Understand the business requirement and develop code for the same and deploying it to Production.
 • Have a hands on experience of Java, HTML, CSS, AJAX ,Javascript and MySql Database
-• Working knowledge of Operating System, Computer Networks, Data Structures and Algorithm
+• Developed different UI component and encapsulated it with backend using Java(Struts Framework). Created API for backend communication with different modules.
+•Created Bulk Upload features(Excel) for different modules using Java and poi jars.
 ```
 ### Personal Projects
 ```markdown
