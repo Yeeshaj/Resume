@@ -2,8 +2,10 @@ Resume
 To adapt myself as a creative member in a competitive team and efficiently utilize my communication and technical skills to gain knowledge and momentum in the software arena and prove myself as valuable member of the organization.
 
 # Education
-### M.E. (Software Systems) from Bits Pilani 2021-2023
-### B.Tech (Computer Science and Engineering) from Shri Ramswaroop College of Engineering and Management. 
+```
+• M.E. (Software Systems) from Bits Pilani 2021-2023
+• B.Tech (Computer Science and Engineering) from Shri Ramswaroop College of Engineering and Management. 
+```
 
 # Work Experience
 
