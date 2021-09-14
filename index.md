@@ -1,8 +1,8 @@
 ## Welcome 
 
 #Education
- M.E. (Software Systems) from Bits Pilani 2021-2023
- B.Tech (Computer Science and Engineering) from Shri Ramswaroop College of Engineering and Management. 
+### M.E. (Software Systems) from Bits Pilani 2021-2023
+### B.Tech (Computer Science and Engineering) from Shri Ramswaroop College of Engineering and Management. 
 
 # Work Experience
 
