@@ -1,4 +1,5 @@
-## Welcome 
+##
+To adapt myself as a creative member in a competitive team and efficiently utilize my communication and technical skills to gain knowledge and momentum in the software arena and prove myself as valuable member of the organization.
 
 # Education
 ### M.E. (Software Systems) from Bits Pilani 2021-2023
@@ -29,9 +30,19 @@
 • Secured A.I.R 776 in Code Vita Exam
 • Cleared TCS Internal capability Assessment
 ```
+
+# Certificates
+```
+• Problem Solving Intermediate from HackerRank
+• Problem Solving Basic from HackerRank
+• Java  Basic from HackerRank
+• SQL  Basic from HackerRank
+• SQL  Intermediate from HackerRank
+```
  <a href="https://github.com/Yeeshaj"> Github </a>
 <a href="https://leetcode.com/yeeshaj/">Leetcode </a>
 <a href="https://www.linkedin.com/in/yeeshaj//">LinkedIn </a>
+<a href="https://www.hackerrank.com/Yeeshaj">HackerRank</a>
 
 
 
