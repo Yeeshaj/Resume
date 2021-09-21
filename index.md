@@ -1,5 +1,4 @@
-To adapt myself as a creative member in a competitive team and efficiently utilize my communication and technical skills to gain knowledge and momentum in the software arena and prove myself as valuable member of the organization. ![Professional_Photo](https://user-images.githubusercontent.com/20843038/134171431-d75fe0f5-2a09-49f8-aca1-d2c03c040043.jpg)
-
+To adapt myself as a creative member in a competitive team and efficiently utilize my communication and technical skills to gain knowledge and momentum in the software arena and prove myself as valuable member of the organization.
 # Education
 ```
 • M.E. (Software Systems) from Bits Pilani 2021-2023
