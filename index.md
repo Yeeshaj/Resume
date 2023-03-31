@@ -7,6 +7,8 @@ To adapt myself as a creative member in a competitive team and efficiently utili
 
 # Work Experience
 
+### Internship at Samsung Semiconductor India Research(Jan 2023-Present)
+
 ### System Engineer (2018-2021)
 ```
 • Understand the business requirement and develop code for the same and deploying it to Production.
